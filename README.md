@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 *   🌍  I'm based in Florida
-*   🧠  I'm learning Data Structure & Algorithms
+*   🧠  I'm learning Data Structures & Algorithms
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm secretly Spiderman...but don't tell anyone else
 
