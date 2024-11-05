@@ -9,7 +9,6 @@ Frontend Developer
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm secretly Spiderman...but don't tell anyone else
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curlos&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
