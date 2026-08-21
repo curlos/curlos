@@ -44,11 +44,6 @@ Full-Stack Developer
 **[Panelyze](https://github.com/curlos/panelyze)** — Desktop app that uses the Magi AI model to convert manga/comics into panel-by-panel reading formats, with image upscaling and batch chapter processing.
 `Python` `Flet` `Pillow` `AI/ML`
 
-### GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=curlos&show_icons=true&theme=default" alt="Carlos's GitHub Stats" height="165" />
-</p>
-
 ### Socials
 
 <p align="left">
