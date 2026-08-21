@@ -44,6 +44,9 @@ Full-Stack Developer
 **[Panelyze](https://github.com/curlos/panelyze)** — Desktop app that uses the Magi AI model to convert manga/comics into panel-by-panel reading formats, with image upscaling and batch chapter processing.
 `Python` `Flet` `Pillow` `AI/ML`
 
+**[YouTube Timestamp Bookmarker](https://github.com/curlos/YouTube-Timestamp-Bookmark-Chrome-Extension)** — Chrome extension for saving timestamped video bookmarks, with automatic frame capture previews, notes, and playback controls.
+`JavaScript` `Chrome Extensions API`
+
 ### Socials
 
 <p align="left">
